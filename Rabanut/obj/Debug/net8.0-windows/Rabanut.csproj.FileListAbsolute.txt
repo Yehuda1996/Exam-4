@@ -1,0 +1,16 @@
+C:\Mac\Home\Documents\לימודים\C#\Rabanut\Rabanut\bin\Debug\net8.0-windows\Rabanut.exe
+C:\Mac\Home\Documents\לימודים\C#\Rabanut\Rabanut\bin\Debug\net8.0-windows\Rabanut.deps.json
+C:\Mac\Home\Documents\לימודים\C#\Rabanut\Rabanut\bin\Debug\net8.0-windows\Rabanut.runtimeconfig.json
+C:\Mac\Home\Documents\לימודים\C#\Rabanut\Rabanut\bin\Debug\net8.0-windows\Rabanut.dll
+C:\Mac\Home\Documents\לימודים\C#\Rabanut\Rabanut\bin\Debug\net8.0-windows\Rabanut.pdb
+C:\Mac\Home\Documents\לימודים\C#\Rabanut\Rabanut\obj\Debug\net8.0-windows\Rabanut.Form1.resources
+C:\Mac\Home\Documents\לימודים\C#\Rabanut\Rabanut\obj\Debug\net8.0-windows\Rabanut.csproj.GenerateResource.cache
+C:\Mac\Home\Documents\לימודים\C#\Rabanut\Rabanut\obj\Debug\net8.0-windows\Rabanut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Documents\לימודים\C#\Rabanut\Rabanut\obj\Debug\net8.0-windows\Rabanut.AssemblyInfoInputs.cache
+C:\Mac\Home\Documents\לימודים\C#\Rabanut\Rabanut\obj\Debug\net8.0-windows\Rabanut.AssemblyInfo.cs
+C:\Mac\Home\Documents\לימודים\C#\Rabanut\Rabanut\obj\Debug\net8.0-windows\Rabanut.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\לימודים\C#\Rabanut\Rabanut\obj\Debug\net8.0-windows\Rabanut.dll
+C:\Mac\Home\Documents\לימודים\C#\Rabanut\Rabanut\obj\Debug\net8.0-windows\refint\Rabanut.dll
+C:\Mac\Home\Documents\לימודים\C#\Rabanut\Rabanut\obj\Debug\net8.0-windows\Rabanut.pdb
+C:\Mac\Home\Documents\לימודים\C#\Rabanut\Rabanut\obj\Debug\net8.0-windows\Rabanut.genruntimeconfig.cache
+C:\Mac\Home\Documents\לימודים\C#\Rabanut\Rabanut\obj\Debug\net8.0-windows\ref\Rabanut.dll
